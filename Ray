@@ -1,0 +1,60 @@
+
+1
+<!DOCTYPEhtml>
+2
+< html  lang = "pt" > https://tenor.com/pt-BR/view/laugh-gif-26131338
+3
+  < cabeça >
+4
+    < script  src = "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js" </ script >
+5
+    < script  src = "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/addons/p5.sound.min.js" </ script >
+6
+    < link  rel = "folha de estilo"  type = "text/css"  href = "style.css" >
+7
+    < meta  charset = "utf-8"  />
+8
+​
+9
+  </ cabeça >
+10
+  < corpo >
+11
+    <principal>​​
+12
+    </ principal >
+13
+    < script  src = "sketch.js" </ script >
+14
+  </ corpo >
+15
+</html>
+
+1
+ configuração de função () {
+2
+  criarCanvas ( 400 , 400 );
+3
+}
+4
+​
+5
+função  desenhar () {
+6
+  fundo ( 220 );
+7
+}
+
+
+1
+html , corpo {
+2
+  margem : 0 ;
+3
+  preenchimento : 0 ;
+4
+}
+5
+tela {
+6
+  exibição : bloco ;
